@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WcfMessageContract", "WcfMessageContract\WcfMessageContract.csproj", "{ACB41DEE-BC47-418C-AB8A-1C5498161F43}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WcfMessageContractClient", "WcfMessageContractClient\WcfMessageContractClient.csproj", "{53D7B4CB-6F82-4B25-9FC4-6DF76A65EAB6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{ACB41DEE-BC47-418C-AB8A-1C5498161F43}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ACB41DEE-BC47-418C-AB8A-1C5498161F43}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ACB41DEE-BC47-418C-AB8A-1C5498161F43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53D7B4CB-6F82-4B25-9FC4-6DF76A65EAB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53D7B4CB-6F82-4B25-9FC4-6DF76A65EAB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53D7B4CB-6F82-4B25-9FC4-6DF76A65EAB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53D7B4CB-6F82-4B25-9FC4-6DF76A65EAB6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
